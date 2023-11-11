@@ -1,1 +1,0 @@
-{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"Write code for a large language model (LLM) using PyTorch with an architecture similar to LLAMA. The model should have 20 billion parameters.","md5":"e9101d04b4aeee33ceb55c1c8c2934fd"}]}
